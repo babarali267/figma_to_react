@@ -1,0 +1,40 @@
+
+
+.header_box{
+    position: absolute;
+    height: 30px;
+    top: 20%;
+    right: 0;
+}
+
+
+.header_box span{
+     height: 30px;
+     float: none;
+     display: flex;
+     width: 30px;
+     background: #03087B;
+     margin: 50px 0px;
+
+}
+
+
+.bottom_box{
+    position: absolute;
+    height: 50px;
+    width: 40%;
+    bottom: 0;
+    left: 0;
+}
+
+.bottom_box span:nth-child(1){
+    margin: 0 0;
+}
+.bottom_box span{
+     height: 50px;
+     float: left;
+     width: 30px;
+     background: #03087B;
+     margin: 0 20px;
+
+}
